@@ -1,0 +1,9 @@
+GEM
+  specs:
+    net-ssh (2.1.0)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  net-ssh
